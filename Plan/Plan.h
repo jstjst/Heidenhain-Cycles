@@ -1,5 +1,5 @@
 0  BEGIN PGM Plan MM 
-1  ;Zyklus zum Planfraesen mit spiralfoermiger Zustellung
+1  ;Zyklus zum Planfraesen mit spiralfoermiger Zustellung V0.9
 2  ;Copyright (C) 2019 Jonas Gappert <jonas@gappert.de>
 3  ;This program is free software: you can redistribute it and/or modify it~
  under the terms of the GNU General Public License as published by the Free~
